@@ -1,3 +1,13 @@
 1000
 code online
 222
+
+
+public static tenthangban()
+{
+ ifjasjdk 
+ asdf
+ as
+ dfa
+ s
+}
