@@ -20,3 +20,12 @@ public static tenthangban222()
  dfa
  s
 }
+
+public static tenthangban222()
+{
+ ifjasjdk 
+ asdf
+ as
+ dfa
+ s
+}
